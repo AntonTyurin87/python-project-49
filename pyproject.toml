@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Антон Тюрин <AntonTyurin87@gmail.com>"]
 readme = "README.md"
@@ -11,7 +11,9 @@ python = "^3.8"
 prompt = "^0.4.1"
 
 [tool.poetry.scripts]
+brain-even = "brain_games.scripts.brain_even:main"
 brain-games = "brain_games.scripts.brain_games:main"
+
 
 [build-system]
 requires = ["poetry-core"]
