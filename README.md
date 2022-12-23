@@ -4,4 +4,4 @@
 <a href="https://codeclimate.com/github/AntonTyurin87/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/17b1d594e670fc53c80a/maintainability" /></a>
 
 **Brain-Games Installation**
-https://asciinema.org/a/547602
+[![asciicast](https://asciinema.org/a/547602.svg)](https://asciinema.org/a/547602)
