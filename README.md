@@ -7,5 +7,9 @@
 [![asciicast](https://asciinema.org/a/547602.svg)](https://asciinema.org/a/547602)
 
 
-## **Game First: Brain-Even**
+## **Game 1: Brain-Even**
 [![asciicast](https://asciinema.org/a/gSSKnnlDHSdEwiPCsVMThYs4l.svg)](https://asciinema.org/a/gSSKnnlDHSdEwiPCsVMThYs4l)
+
+
+## **Game 2: Brain-Calc**
+[![asciicast](https://asciinema.org/a/IwntNsxux5Ua5quVktqM6OtYo.svg)](https://asciinema.org/a/IwntNsxux5Ua5quVktqM6OtYo)
