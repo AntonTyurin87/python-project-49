@@ -31,5 +31,3 @@ def calc_game():
         your_ans = int(your_ans)
 
     return your_ans, arifmetic(arithmetic_sign)
-
-calc_game()
