@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 import prompt
 
-counter = 3 #number of game rounds
+# number of game rounds
+counter = 3
+
 
 def welcome_user():
     print('Welcome to the Brain Games!')
     user_name = prompt.string('May I have your name? ')
-    print(f"Hello, '{user_name}'!")
+    print(f"Hello, {user_name}!")
     return user_name
 
 
@@ -20,11 +22,11 @@ def game_launch(game, name):
             print('Correct!')
             round_counter += 1
 
-        else: 
+        else:
             print(f"'{answer[0]}' is wrong answer ;(. ", end='')
             print(f"Correct answer was '{answer[1]}'.")
-            print(f"Let's try again, '{name}'!")
+            print(f"Let's try again, {name}!")
             break
 
     if round_counter == counter:
-        print(f"Congratulations, '{name}'!")
+        print(f"Congratulations, {name}!")
