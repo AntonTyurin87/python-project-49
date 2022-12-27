@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import random
 import prompt
 
@@ -17,7 +18,7 @@ def arifmetic(arithmetic_sign):
     return correct_ans
 
 
-# The functionality of the game "Even-Game"
+# The functionality of the game "Calc-Game"
 def calc_game():
     global number_1, number_2, arithmetic_sign
     number_1 = random.randint(1, 100)
