@@ -21,3 +21,7 @@
 
 ## **Game 4: Brain-Progression**
 [![asciicast](https://asciinema.org/a/vdMf7HAEHHw2F1KxQlJBfJ0de.svg)](https://asciinema.org/a/vdMf7HAEHHw2F1KxQlJBfJ0de)
+
+
+## **Game 5: Brain-Prime**
+[![asciicast](https://asciinema.org/a/Ck6ZpOA64R87MlLJkrcYwq1Ev.svg)](https://asciinema.org/a/Ck6ZpOA64R87MlLJkrcYwq1Ev)

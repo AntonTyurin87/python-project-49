@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.1.16"
+version = "0.1.18"
 description = ""
 authors = ["Антон Тюрин <AntonTyurin87@gmail.com>"]
 readme = "README.md"
@@ -16,6 +16,7 @@ brain-even = "brain_games.scripts.brain_even:main"
 brain-calc = "brain_games.scripts.brain_calc:main"
 brain-gcd = "brain_games.scripts.brain_gcd:main"
 brain-progression = "brain_games.scripts.brain_progression:main"
+brain-prime = "brain_games.scripts.brain_prime:main"
 
 
 [build-system]

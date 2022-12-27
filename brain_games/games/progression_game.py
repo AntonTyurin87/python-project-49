@@ -10,7 +10,7 @@ def rules():
 # The functionality of the game "Progression-Game"
 def progression_game():
     len_progression = random.randint(5, 11)
-    secret_number = random.randint(0, len_progression-1)
+    secret_number = random.randint(0, len_progression - 1)
     step_progression = random.randint(1, 10)
     first_term_progression = random.randint(0, 51)
 

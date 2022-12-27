@@ -11,11 +11,11 @@ def rules():
 def even_game():
     number = random.randint(1, 100)
     print(f'Question: {number}')
-    your_answer = prompt.string('Your answer: ')
+    your_ans = prompt.string('Your answer: ')
 
     if number % 2 == 0:
-        correct_answer = 'yes'
+        correct_ans = 'yes'
     elif number % 2 != 0:
-        correct_answer = 'no'
+        correct_ans = 'no'
 
-    return your_answer, correct_answer
+    return your_ans, correct_ans
