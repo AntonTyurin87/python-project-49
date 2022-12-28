@@ -14,7 +14,7 @@ def progression_game():
     step_progression = random.randint(1, 10)
     first_term_progression = random.randint(0, 51)
 
-    progression = [str(first_term_progression),]
+    progression = [str(first_term_progression)]
 
     for i in range(1, len_progression):
         progression += [str(int(progression[i - 1]) + step_progression)]
